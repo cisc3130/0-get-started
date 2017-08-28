@@ -8,6 +8,6 @@ This assignments walks you through the mechanics of cloning a repository, making
 
 2. Follow the instructions[here](https://github.com/cisc3130/docs/blob/master/travis.md) to integrate your repository with Travis CI for automatic testing.
 
-2. Follow the instructions [here](https://github.com/cisc3130/docs/blob/master/submissions.md). When you are up to the __Modify__ section ("Edit the project files to fulfill the assignment requirements"), edit __this file__ (Readme.md) so that the first header says "Homework 0: <YOURNAME> is getting started with Github" (replace <YOURNAME> with your name). Continue with the rest of the submission instructions.
+2. Follow the instructions [here](https://github.com/cisc3130/docs/blob/master/submissions.md). When you are up to the __Modify__ section ("Edit the project files to fulfill the assignment requirements"), write a short program called helloworld.cpp (naming must be exactly the same) to print the phrase "Hello world" to the terminal. Continue with the rest of the submission instructions.
 
 3. You will follow this workflow (accepting assignments, enabling travis, modifying and submitting) for all assignments in this class.
