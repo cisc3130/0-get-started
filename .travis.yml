@@ -1,5 +1,5 @@
-language: c++
+language: java
 
 script:
- - g++ helloworld.cpp
- - ./a.out
+ - javac HelloWorldApp.java
+ - java HelloWorldApp
