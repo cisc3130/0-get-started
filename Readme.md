@@ -4,7 +4,7 @@ This assignments walks you through the mechanics of cloning a repository, making
 
 *This workflow may take getting used to. This is your chance to work through it. Start immediately and come to office hours if you can't get it to work.*
 
-1. *Accept this assignment on Github Classroom.* Follow the link from the [class schedule](www.sci.brooklyn.cuny.edu/~levitan/data-structures/schedule.html) and follow Github's instructions from there. If you don't have a Github account, create one now.
+1. Accept this assignment on Github Classroom. Follow the link from the [class schedule](www.sci.brooklyn.cuny.edu/~levitan/data-structures/schedule.html) and follow Github's instructions from there. If you don't have a Github account, create one now.
 
 2. Follow the instructions [here](https://github.com/cisc3130/docs/blob/master/travis.md) to integrate your repository with Travis CI for automatic testing.
 
